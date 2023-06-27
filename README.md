@@ -1,6 +1,7 @@
 # 02-Challenge
 
 ## Description
+Started setting up a webpage for my portfolio
 
 ## Mock-up
 ![Encinitas](Images/IMG_3079.png)
