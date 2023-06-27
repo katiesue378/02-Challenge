@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    margin: 0;
+  }
+  
+  header {
+    padding: 60px;
+    text-align: center;
+    background: #2b88df;
+    color: #fff;
+  }
+  
+  nav {
+    display: flex;
+    background-color: #e627a6;
+  }
+  
+  nav ul {
+    padding: 14px 20px;
+    text-align: left;
+  }
+  
+  main {
+    display: flex;
+  }
+  
+  footer {
+    padding: 20px;
+    text-align: left;
+    background: #77cdda;
+    color: #000;
+  }
+  
+  /* Image Placeholder */
+  img {
+    background-color: #fff;
+    width: 75%;
+
+  }
