@@ -8,4 +8,4 @@ Started setting up a webpage for my portfolio
 
 ## Deployment Links
 Github - https://github.com/katiesue378/02-Challenge
-Deployed - 
+Deployed - https://katiesue378.github.io/02-Challenge/
